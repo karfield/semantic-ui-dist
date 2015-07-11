@@ -1,7 +1,8 @@
 {
   "name": "kf-semantic-ui-dist",
-  "version": "2.0.3",
+  "version": "0.0.1",
   "title": "Semantic UI dist version built by Karfield",
+  "main": "dist/semantic.js",
   "description": "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
   "homepage": "http://www.semantic-ui.com",
   "author": "Jack Lukic <jack@semantic-ui.com>;Karfield Chen <kf@karfield.com>",
