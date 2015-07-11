@@ -1,0 +1,13 @@
+{
+  "name": "kf-semantic-ui-dist",
+  "version": "2.0.3",
+  "title": "Semantic UI dist version built by Karfield",
+  "description": "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>;Karfield Chen <kf@karfield.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Karfield/kf-semantic-ui-dist.git"
+  }
+}
